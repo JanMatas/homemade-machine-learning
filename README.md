@@ -23,9 +23,10 @@ _Usage examples: stock price forecast, sales analysis, dependency of any number,
 
 - 📗 [Math | Linear Regression](homemade/linear_regression) - theory and links for further readings
 - ⚙️ [Code | Linear Regression](homemade/linear_regression/linear_regression.py) - implementation example
-- ▶️ [Demo | Univariate Linear Regression](https://nbviewer.jupyter.org/github/trekhleb/homemade-machine-learning/blob/master/notebooks/linear_regression/univariate_linear_regression_demo.ipynb) - predict `country happiness` score by `economy GDP`
-- ▶️ [Demo | Multivariate Linear Regression](https://nbviewer.jupyter.org/github/trekhleb/homemade-machine-learning/blob/master/notebooks/linear_regression/multivariate_linear_regression_demo.ipynb) - predict `country happiness` score by `economy GDP` and `freedom index`
-- ▶️ [Demo | Non-linear Regression](https://nbviewer.jupyter.org/github/trekhleb/homemade-machine-learning/blob/master/notebooks/linear_regression/non_linear_regression_demo.ipynb) - use linear regression with _polynomial_ and _sinusoid_ features to predict non-linear dependencies
+- ▶️ [Demo | Univariate Linear Regression](https://nbviewer.jupyter.org/github/trekhleb/homemade-machine-learning/blob/master/notebooks/linear_regression/univariate_linear_regression_demo.ipynb) [<img align="right" height="24" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg">](https://beta.deepnote.com/launch?template=deepnote&url=https%3A%2F%2Fgithub.com%2Ftrekhleb%2Fhomemade-machine-learning%2Fblob%2Fmaster%2Fnotebooks%2Flinear_regression%2Funivariate_linear_regression_demo.ipynb) - predict `country happiness` score by `economy GDP`
+- ▶️ [Demo | Multivariate Linear Regression](https://nbviewer.jupyter.org/github/trekhleb/homemade-machine-learning/blob/master/notebooks/linear_regression/multivariate_linear_regression_demo.ipynb) [<img align="right" height="24" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg">](https://beta.deepnote.com/launch?template=deepnote&url=https%3A%2F%2Fgithub.com%2Ftrekhleb%2Fhomemade-machine-learning%2Fblob%2Fmaster%2Fnotebooks%2Flinear_regression%2Fmultivariate_linear_regression_demo.ipynb) - predict `country happiness` score by `economy GDP` and `freedom index`
+- ▶️ [Demo | Non-linear Regression](https://nbviewer.jupyter.org/github/trekhleb/homemade-machine-learning/blob/master/notebooks/linear_regression/non_linear_regression_demo.ipynb) [<img align="right" height="24" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg">](https://beta.deepnote.com/launch?template=deepnote&url=https%3A%2F%2Fgithub.com%2Ftrekhleb%2Fhomemade-machine-learning%2Fblob%2Fmaster%2Fnotebooks%2Flinear_regression%2Fnon_linear_regression_demo.ipynb) - use linear regression with _polynomial_ and _sinusoid_ features to predict non-linear dependencies
+
 
 ### Classification
 
@@ -37,10 +38,10 @@ _Usage examples: spam-filters, language detection, finding similar documents, ha
 
 - 📗 [Math | Logistic Regression](homemade/logistic_regression) - theory and links for further readings
 - ⚙️ [Code | Logistic Regression](homemade/logistic_regression/logistic_regression.py) - implementation example
-- ▶️ [Demo | Logistic Regression (Linear Boundary)](https://nbviewer.jupyter.org/github/trekhleb/homemade-machine-learning/blob/master/notebooks/logistic_regression/logistic_regression_with_linear_boundary_demo.ipynb) - predict Iris flower `class` based on `petal_length` and `petal_width`
-- ▶️ [Demo | Logistic Regression (Non-Linear Boundary)](https://nbviewer.jupyter.org/github/trekhleb/homemade-machine-learning/blob/master/notebooks/logistic_regression/logistic_regression_with_non_linear_boundary_demo.ipynb) - predict microchip `validity` based on `param_1` and `param_2`
-- ▶️ [Demo | Multivariate Logistic Regression | MNIST](https://nbviewer.jupyter.org/github/trekhleb/homemade-machine-learning/blob/master/notebooks/logistic_regression/multivariate_logistic_regression_demo.ipynb) - recognize handwritten digits from `28x28` pixel images
-- ▶️ [Demo | Multivariate Logistic Regression | Fashion MNIST](https://nbviewer.jupyter.org/github/trekhleb/homemade-machine-learning/blob/master/notebooks/logistic_regression/multivariate_logistic_regression_fashion_demo.ipynb) - recognize clothes types from `28x28` pixel images
+- ▶️ [Demo | Logistic Regression (Linear Boundary)](https://nbviewer.jupyter.org/github/trekhleb/homemade-machine-learning/blob/master/notebooks/logistic_regression/logistic_regression_with_linear_boundary_demo.ipynb) [<img align="right" height="24" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg">](https://beta.deepnote.com/launch?template=deepnote&url=https%3A%2F%2Fgithub.com%2Ftrekhleb%2Fhomemade-machine-learning%2Fblob%2Fmaster%2Fnotebooks%2Flogistic_regression%2Flogistic_regression_with_linear_boundary_demo.ipynb%0A%0A) - predict Iris flower `class` based on `petal_length` and `petal_width`
+- ▶️ [Demo | Logistic Regression (Non-Linear Boundary)](https://nbviewer.jupyter.org/github/trekhleb/homemade-machine-learning/blob/master/notebooks/logistic_regression/logistic_regression_with_non_linear_boundary_demo.ipynb) [<img align="right" height="24" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg">](https://beta.deepnote.com/launch?template=deepnote&url=https%3A%2F%2Fgithub.com%2Ftrekhleb%2Fhomemade-machine-learning%2Fblob%2Fmaster%2Fnotebooks%2Flogistic_regression%2Flogistic_regression_with_non_linear_boundary_demo.ipynb%0A%0A) - predict microchip `validity` based on `param_1` and `param_2`
+- ▶️ [Demo | Multivariate Logistic Regression | MNIST](https://nbviewer.jupyter.org/github/trekhleb/homemade-machine-learning/blob/master/notebooks/logistic_regression/multivariate_logistic_regression_demo.ipynb) [<img align="right" height="24" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg">](https://beta.deepnote.com/launch?template=deepnote&url=https%3A%2F%2Fgithub.com%2Ftrekhleb%2Fhomemade-machine-learning%2Fblob%2Fmaster%2Fnotebooks%2Flogistic_regression%2Fmultivariate_logistic_regression_demo.ipynb%0A%0A) - recognize handwritten digits from `28x28` pixel images
+- ▶️ [Demo | Multivariate Logistic Regression | Fashion MNIST](https://nbviewer.jupyter.org/github/trekhleb/homemade-machine-learning/blob/master/notebooks/logistic_regression/multivariate_logistic_regression_fashion_demo.ipynb) [<img align="right" height="24" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg">](https://beta.deepnote.com/launch?template=deepnote&url=https%3A%2F%2Fgithub.com%2Ftrekhleb%2Fhomemade-machine-learning%2Fblob%2Fmaster%2Fnotebooks%2Flogistic_regression%2Fmultivariate_logistic_regression_fashion_demo.ipynb) - recognize clothes types from `28x28` pixel images
 
 ## Unsupervised Learning
 
@@ -56,7 +57,7 @@ _Usage examples: market segmentation, social networks analysis, organize computi
 
 - 📗 [Math | K-means Algorithm](homemade/k_means) - theory and links for further readings
 - ⚙️ [Code | K-means Algorithm](homemade/k_means/k_means.py) - implementation example
-- ▶️ [Demo | K-means Algorithm](https://nbviewer.jupyter.org/github/trekhleb/homemade-machine-learning/blob/master/notebooks/k_means/k_means_demo.ipynb) - split Iris flowers into clusters based on `petal_length` and `petal_width`
+- ▶️ [Demo | K-means Algorithm](https://nbviewer.jupyter.org/github/trekhleb/homemade-machine-learning/blob/master/notebooks/k_means/k_means_demo.ipynb) [<img align="right" height="24" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg">](https://beta.deepnote.com/launch?template=deepnote&url=https%3A%2F%2Fgithub.com%2Ftrekhleb%2Fhomemade-machine-learning%2Fblob%2Fmaster%2Fnotebooks%2Fk_means%2Fk_means_demo.ipynb) - split Iris flowers into clusters based on `petal_length` and `petal_width`
 
 ### Anomaly Detection
 
@@ -68,7 +69,7 @@ _Usage examples: intrusion detection, fraud detection, system health monitoring,
 
 - 📗 [Math | Anomaly Detection using Gaussian Distribution](homemade/anomaly_detection) - theory and links for further readings
 - ⚙️ [Code | Anomaly Detection using Gaussian Distribution](homemade/anomaly_detection/gaussian_anomaly_detection.py) - implementation example
-- ▶️ [Demo | Anomaly Detection](https://nbviewer.jupyter.org/github/trekhleb/homemade-machine-learning/blob/master/notebooks/anomaly_detection/anomaly_detection_gaussian_demo.ipynb) - find anomalies in server operational parameters like `latency` and `threshold`
+- ▶️ [Demo | Anomaly Detection](https://nbviewer.jupyter.org/github/trekhleb/homemade-machine-learning/blob/master/notebooks/anomaly_detection/anomaly_detection_gaussian_demo.ipynb) [<img align="right" height="24" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg">](https://beta.deepnote.com/launch?template=deepnote&url=https%3A%2F%2Fgithub.com%2Ftrekhleb%2Fhomemade-machine-learning%2Fblob%2Fmaster%2Fnotebooks%2Fanomaly_detection%2Fanomaly_detection_gaussian_demo.ipynb) - find anomalies in server operational parameters like `latency` and `threshold`
 
 ## Neural Network (NN)
 
@@ -80,8 +81,8 @@ _Usage examples: as a substitute of all other algorithms in general, image recog
 
 - 📗 [Math | Multilayer Perceptron](homemade/neural_network) - theory and links for further readings
 - ⚙️ [Code | Multilayer Perceptron](homemade/neural_network/multilayer_perceptron.py) - implementation example
-- ▶️ [Demo | Multilayer Perceptron | MNIST](https://nbviewer.jupyter.org/github/trekhleb/homemade-machine-learning/blob/master/notebooks/neural_network/multilayer_perceptron_demo.ipynb) - recognize handwritten digits from `28x28` pixel images
-- ▶️ [Demo | Multilayer Perceptron | Fashion MNIST](https://nbviewer.jupyter.org/github/trekhleb/homemade-machine-learning/blob/master/notebooks/neural_network/multilayer_perceptron_fashion_demo.ipynb) - recognize the type of clothes from `28x28` pixel images
+- ▶️ [Demo | Multilayer Perceptron | MNIST](https://nbviewer.jupyter.org/github/trekhleb/homemade-machine-learning/blob/master/notebooks/neural_network/multilayer_perceptron_demo.ipynb) [<img align="right" height="24" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg">](https://beta.deepnote.com/launch?template=deepnote&url=https%3A%2F%2Fgithub.com%2Ftrekhleb%2Fhomemade-machine-learning%2Fblob%2Fmaster%2Fnotebooks%2Fneural_network%2Fmultilayer_perceptron_demo.ipynb) - recognize handwritten digits from `28x28` pixel images
+- ▶️ [Demo | Multilayer Perceptron | Fashion MNIST](https://nbviewer.jupyter.org/github/trekhleb/homemade-machine-learning/blob/master/notebooks/neural_network/multilayer_perceptron_fashion_demo.ipynb) [<img align="right" height="24" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg">](https://beta.deepnote.com/launch?template=deepnote&url=https%3A%2F%2Fgithub.com%2Ftrekhleb%2Fhomemade-machine-learning%2Fblob%2Fmaster%2Fnotebooks%2Fneural_network%2Fmultilayer_perceptron_fashion_demo.ipynb) - recognize the type of clothes from `28x28` pixel images
 
 ## Machine Learning Map
 
